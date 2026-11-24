@@ -1,7 +1,7 @@
 # TrashCache Pro
 
-Free Windows tool that scans `C:\\Users` (or any folder), measures folders and highlights junk: green = safe, yellow = careful, red = protected.
+Free Windows tool that scans `C:\` (or any folder), measures folders and highlights junk: green = safe, yellow = careful, red = protected.
 
-Website: https://YOUR-USERNAME.github.io/trashcache-pro/
+Website: https://trashcache.github.io/
 
 Download: [`download/TrashCachePro.exe`](download/TrashCachePro.exe) · by SEVENDY
